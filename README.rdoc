@@ -2,7 +2,7 @@
 
 Coder Manual Project Application 
 Subscription Based Web Application.
-https://codermanual.com
+https://codermanual.comcd
 
 Things you may want to cover:
 
